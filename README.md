@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on Finance/Trading...
+- I am Full Stack Developer
 - 🌱 I’m currently learning - AI/ML 
 
 Some Resources
