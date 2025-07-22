@@ -19,9 +19,6 @@ I'm a passionate Full Stack Developer with a strong foundation in both tradition
 **Database Management**: Proficient in SQL, database design, and optimization.
 
 
-#Other Resources
-- crawl4ai - https://github.com/unclecode/crawl4ai
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodingEye&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodingEye&theme=dark&hide_border=true)<br/>
